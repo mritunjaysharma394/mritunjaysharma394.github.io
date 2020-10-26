@@ -1,5 +1,5 @@
 title: Mritunjay Sharma
-subtitle: An automating polyglot, jack of all trades, master of some.
+subtitle: An automating polyglot, 
 description: >- # this means to ignore newlines until "baseurl:"
   testing content. will add later.
 
@@ -26,10 +26,10 @@ urls:
 
 author_logo: profile.jpg
 author: Mritunjay Sharma
-author_bio: Hi, my name is Mritunjay Sharma, a Computer Science Engineering Student, exlporing the tryst with Open-Source, delving into Python, framing things with Django, while dealing in Flasks, with a pinch of Shell scripts, a hint of C/C++ development in the kernel that is not found in the corn to finally try and automate all of it and sometimes writing poems, just like this one?
+author_bio: Hi, my name is Mritunjay Sharma, a Computer Science Engineering Student, based in Lucknow, India, exlporing the tryst with Open-Source, delving into Python, framing things with Django, while dealing in Flasks, with a pinch of Shell scripts, a hint of C/C++ development in the kernel that is not found in the corn to eventually automate all of it and sometimes giving talks while sometimes writing poems, just like this one?
 author_email: "mritunjaysharma394@gmail.com"
 author_location: India
-typewrite-text: a Computer Science Engineering Student, exlporing the tryst with Open-Source, delving into Python, framing things with Django, while dealing in Flasks, with a pinch of Shell scripts, a hint of C/C++ development in the kernel that is not found in the corn to finally try and automate all of it and sometimes writing poems, just like this one?
+typewrite-text: a Junior Year Computer Science Engineering Student, in tryst with Open-Source, developing Python Apps and automating everything in between :)
 
 author_work_experiences:
             - company_name: Google Summer of Code
